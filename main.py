@@ -1,3 +1,6 @@
+#
+# Sinalização
+#
 
 f = open("sinalizacao.csv")
 
